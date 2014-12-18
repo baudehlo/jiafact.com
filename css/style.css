@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    background-color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.site_title {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 25px 0 25px 0;
+}
+
+.jiafact {
+    margin: 35px 0;
+}
+
+.jiafact h5 {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.jiafact .fact {
+    padding-top: 10px;
+    line-height: 1.6;
+}
