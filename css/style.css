@@ -29,11 +29,15 @@ h5 {
 }
 
 .titlePastfacts {
-    margin-top: 45px;
+    margin-top: 65px;
 }
 
 .jiafact {
-    
+    padding-bottom: 25px;
+}
+
+.jiafact.latest {
+    padding-bottom: 0;
 }
 
 .jiafact .date {
